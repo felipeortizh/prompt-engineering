@@ -3,6 +3,7 @@
 A curated **library of prompts, agent blueprints, and practical notebooks** that demonstrate modern prompt‑engineering patterns for large language models (LLMs).
 
 ---
+![Project banner](prompt-eng.png)
 
 ## ✨ Why this repo?
 
